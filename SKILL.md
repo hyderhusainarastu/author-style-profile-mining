@@ -1,6 +1,6 @@
 ---
 name: author-style-profile-mining
-description: Mines a multi-sample writing corpus for an author's measurable, recurring stylistic habits (sentence rhythm, paragraph shape, transition words, syntactic moves, vocabulary register, hedging patterns) and converts the findings into a DO/DON'T checklist that future drafts can imitate or avoid. Invoke when a user wants to calibrate new writing to someone's demonstrated voice, build a style guide from sample documents, or separate an author's authentic quirks from generic/AI-sounding filler before an editing pass.
+description: Mines a multi-sample writing corpus for an author's measurable habits (sentence rhythm, transitions, hedging, register) and turns them into a DO/DON'T checklist. Use to match a voice, build a style guide, or separate real quirks from AI filler.
 ---
 
 # Author Style Profile Mining
